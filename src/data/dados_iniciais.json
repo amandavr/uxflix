@@ -1,0 +1,167 @@
+{
+  "categorias": [
+    {
+      "titulo": "UX e Bots",
+      "link": "",
+      "cor": "#a94ea1",
+      "link_extra": {
+        "text": "Como pensar em UX voltado para Bots?",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Messenger: Bot Best Practices For Conversation Design and UX [Webinar]",
+          "url": "https://www.youtube.com/watch?v=7oaI5dO-wPs"
+        },
+        {
+          "titulo": "#FSXP17 | UX + Bots: evolução, desafios e boas práticas, por Caio Calado",
+          "url": "https://www.youtube.com/watch?v=_FxZ-Vh7VY8"
+        },
+        {
+          "titulo": "Como desenhar conversas para chatbots",
+          "url": "https://www.youtube.com/watch?v=2-WODXsJM8E"
+        },
+        {
+          "titulo": "As comunidades e as interfaces conversacionais",
+          "url": "https://www.youtube.com/watch?v=OZwzge5yPkw"
+        },
+        {
+          "titulo": "Bot da May e suas as conversas com mulheres com câncer de mama",
+          "url": "https://www.youtube.com/watch?v=eIKl3IcCScg"
+        },
+        {
+          "titulo": "CHATBOTS & UX 🤖 //AOVIVO",
+          "url": "https://www.youtube.com/watch?v=Jgpdbuknvtg"
+        },
+        {
+          "titulo": "How to Design Human Centered Chatbots? - Sebastian Krumhausen @ WeAreDevelopers Conference 2017",
+          "url": "https://www.youtube.com/watch?v=xudpmyVUy6w"
+        },
+        {
+          "titulo": "Chatbot sob o olhar da experiência do usuário(UX)",
+          "url": "https://www.youtube.com/watch?v=6dBycL89x7k"
+        }        
+      ]
+    },
+    {
+      "titulo": "UX Writing",
+      "cor": "#75a6c3",
+      "link_extra": {
+        "text": "A escrita fazendo parte da jornada.",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        },
+        {
+          "titulo": "Ferramentas para te ajudar com UX Writing | #dicasuxpress",
+          "url": "https://www.youtube.com/watch?v=sWMwlR6KTiw"
+        },
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        }
+      ]
+    },
+    {
+      "titulo": "UX Writing",
+      "cor": "#e0d184",
+      "link_extra": {
+        "text": "A escrita fazendo parte da jornada.",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        },
+        {
+          "titulo": "Ferramentas para te ajudar com UX Writing | #dicasuxpress",
+          "url": "https://www.youtube.com/watch?v=sWMwlR6KTiw"
+        },
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        }
+      ]
+    },
+    {
+      "titulo": "UX Writing",
+      "cor": "#68bb96",
+      "link_extra": {
+        "text": "A escrita fazendo parte da jornada.",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        },
+        {
+          "titulo": "Ferramentas para te ajudar com UX Writing | #dicasuxpress",
+          "url": "https://www.youtube.com/watch?v=sWMwlR6KTiw"
+        },
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        }
+      ]
+    },
+    {
+      "titulo": "UX Writing",
+      "cor": "#b0b5f7",
+      "link_extra": {
+        "text": "A escrita fazendo parte da jornada.",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        },
+        {
+          "titulo": "Ferramentas para te ajudar com UX Writing | #dicasuxpress",
+          "url": "https://www.youtube.com/watch?v=sWMwlR6KTiw"
+        },
+        {
+          "titulo": "Arquitetura da Informação & UX Writing: o que temos a aprender com os Assistentes de Voz",
+          "url": "https://www.youtube.com/watch?v=dQGTRoIwkHg"
+        },
+        {
+          "titulo": "UX Writing: Um mergulho no universo semântico do usuário - Bruno Rodrigues",
+          "url": "https://www.youtube.com/watch?v=gL40yx9ejBg"
+        }
+      ]
+    }
+  ]
+}
