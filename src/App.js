@@ -1,9 +1,10 @@
 import React from 'react';
-import Header from './components/Header'
 import dadosIniciais from './data/dados_iniciais.json';
 import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
+import Header from './components/Header'
+
 function App() {
   return (
     <div style={{ background: "#141414" }}>
