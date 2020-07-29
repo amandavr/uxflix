@@ -3,12 +3,12 @@ import dadosIniciais from './data/dados_iniciais.json';
 import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
-import Header from './components/Header'
+import Menu from './components/Menu'
 
 function App() {
   return (
     <div style={{ background: "#141414" }}>
-      <Header/>
+      <Menu/>
    
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}

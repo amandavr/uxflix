@@ -3,7 +3,7 @@ import Logo from '../../assets/images/uxflix-logo.png';
 import Button from "../Button";
 import './menu.css'
 
-function Header() {
+function Menu() {
     return (
         <nav className="Menu">
             <a href="/">
@@ -17,4 +17,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Menu;
